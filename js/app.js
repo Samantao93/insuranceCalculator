@@ -136,10 +136,3 @@ function validacion(e){
     },3000)
 
 }
-
-
-
-/* ui; */
-/* >
-< */
-
